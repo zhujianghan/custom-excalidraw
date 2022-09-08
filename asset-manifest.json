@@ -103,8 +103,8 @@
     "locales/zh-TW-json.js": "./static/js/locales/zh-TW-json.9b8b41f3.chunk.js",
     "locales/zh-TW-json.js.map": "./static/js/locales/zh-TW-json.9b8b41f3.chunk.js.map",
     "main.css": "./static/css/main.722a64ed.chunk.css",
-    "main.js": "./static/js/main.f4de8daa.chunk.js",
-    "main.js.map": "./static/js/main.f4de8daa.chunk.js.map",
+    "main.js": "./static/js/main.5af50329.chunk.js",
+    "main.js.map": "./static/js/main.5af50329.chunk.js.map",
     "pwacompat.js": "./static/js/pwacompat.a1664926.chunk.js",
     "pwacompat.js.map": "./static/js/pwacompat.a1664926.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.4f2788b1.js",
@@ -150,6 +150,6 @@
     "static/js/runtime-main.4f2788b1.js",
     "static/js/55.bb840f1b.chunk.js",
     "static/css/main.722a64ed.chunk.css",
-    "static/js/main.f4de8daa.chunk.js"
+    "static/js/main.5af50329.chunk.js"
   ]
 }
