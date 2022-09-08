@@ -670,6 +670,11 @@ export const actionChangeFontFamily = register({
         text: t("labels.code"),
         icon: <FontFamilyCodeIcon theme={appState.theme} />,
       },
+      {
+        value: FONT_FAMILY.XiaolaiSC,
+        text: "小赖字体",
+        icon: <FontFamilyCodeIcon theme={appState.theme} />,
+      },
     ];
 
     return (
