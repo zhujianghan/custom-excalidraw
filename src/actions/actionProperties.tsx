@@ -15,6 +15,7 @@ import {
   FillSolidIcon,
   FontFamilyCodeIcon,
   FontFamilyChineseIcon,
+  FontFamilyJingleiIcon,
   FontFamilyHandDrawnIcon,
   FontFamilyNormalIcon,
   FontSizeExtraLargeIcon,
@@ -675,6 +676,11 @@ export const actionChangeFontFamily = register({
         value: FONT_FAMILY.XiaolaiSC,
         text: "小赖字体",
         icon: <FontFamilyChineseIcon theme={appState.theme} />,
+      },
+      {
+        value: FONT_FAMILY.XiaolaiSC,
+        text: "静蕾",
+        icon: <FontFamilyJingleiIcon theme={appState.theme} />,
       },
     ];
 
