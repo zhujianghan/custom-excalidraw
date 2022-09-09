@@ -17,3 +17,9 @@
   src: url("XiaolaiSC-Regular.woff2");
   font-display: swap;
 }
+
+@font-face {
+  font-family: "JingleiSC";
+  src: url("JingleiSC.woff2");
+  font-display: swap;
+}

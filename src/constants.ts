@@ -71,6 +71,7 @@ export const FONT_FAMILY = {
   Helvetica: 2,
   Cascadia: 3,
   XiaolaiSC: 4,
+  JingleiSC: 5,
 };
 
 export const THEME = {
